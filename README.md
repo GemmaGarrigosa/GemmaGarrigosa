@@ -13,7 +13,7 @@ English, Spanish and Catalan. <br><br>
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left"  title="Visual Studio 2022" alt="Visual Studio Code 2022" width="26px" src="https://i.imgur.com/o7T8mMf.png" style="padding-right:10px;" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://i.imgur.com/JTZKZrd.png" style="padding-right:10px;" />
-
+<br>
 ### 📓 Currently learning: 
 ASP.NET CORE and Angular. 
 <br><br><a href= "https://www.linkedin.com/in/gemmagarrigosafrances/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
