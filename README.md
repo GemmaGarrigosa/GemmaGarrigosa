@@ -2,7 +2,7 @@
 <h3> I'm a passionate fullstack developer from Barcelona willing to learn more about coding and programming languages. </h3>
 
 ### 🌍 My languages: 
-English, Spanish and Catalan. <br><br>
+English, Spanish and Catalan. <br>
 
 ### 💻 My real languages: <br>
 <img align="left" title="Java" alt="Java" width="26px" src="https://i.imgur.com/YMylfsb.png" style="padding-right:10px;" />
