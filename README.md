@@ -1,6 +1,6 @@
 ![HEADER](https://github.com/GemmaGarrigosa/GemmaGarrigosa/blob/main/github-header-image.png)
 
-<h1 align="center"> Hi there 👋 I'm Gemma </h1>
+<h1 align="center"> Hi there 👋</h1>
 <h3> I'm a passionate fullstack developer from Barcelona willing to learn more about coding and programming languages. </h3>
 
 ### 🌍 My languages: 
