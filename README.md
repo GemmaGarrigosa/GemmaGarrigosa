@@ -4,7 +4,6 @@
 ### 🌍 My languages: 
 English, Spanish and Catalan. <br><br>
 
-
 ### 💻 My real languages: <br>
 <img align="left" title="Java" alt="Java" width="26px" src="https://i.imgur.com/YMylfsb.png" style="padding-right:10px;" />
 <img  align="left" title="Python" alt="Python" width="26px" src="https://i.imgur.com/e3QdEw0.png" style="padding-right:10px;" />
