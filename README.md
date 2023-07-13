@@ -15,4 +15,4 @@
 <br>
 <br>
 📓 Currently learning: ASP.NET CORE and Angular. 
-<br><a href= "https://www.linkedin.com/in/gemmagarrigosafrances/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+<br><br><a href= "https://www.linkedin.com/in/gemmagarrigosafrances/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
