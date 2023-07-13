@@ -12,6 +12,9 @@ English, Spanish and Catalan. <br>
 <img align="left"  title="HTML5" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left"  title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<br>
+
+### My tools: <br>
 <img align="left"  title="Visual Studio 2022" alt="Visual Studio Code 2022" width="26px" src="https://i.imgur.com/o7T8mMf.png" style="padding-right:10px;" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://i.imgur.com/JTZKZrd.png" style="padding-right:10px;" />
 <br>
