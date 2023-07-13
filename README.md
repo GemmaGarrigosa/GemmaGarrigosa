@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I'm Gemma </h1>
-<h3> I'm a passionate fullstack developer from Barcelona willing to learn more about coding and programming languages </h3>
+<h3> I'm a passionate fullstack developer from Barcelona willing to learn more about coding and programming languages. </h3>
 
 🌍 My languages: English, Spanish and Catalan. <br>
 💻 My real languages: <br>
@@ -12,5 +12,6 @@
 <img  title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img  title="Visual Studio 2022" alt="Visual Studio Code 2022" width="26px" src="https://i.imgur.com/o7T8mMf.png" style="padding-right:10px;" />
 <img  title="Git" alt="Git" width="26px" src="https://i.imgur.com/JTZKZrd.png" style="padding-right:10px;" />
-
+<br>
+📓 Currently learning: ASP.NET CORE and Angular. 
 <br><a href= "https://www.linkedin.com/in/gemmagarrigosafrances/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
