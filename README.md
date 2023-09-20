@@ -3,7 +3,7 @@
 <h1 align="center"> Hi there 👋</h1>
 <h3> I'm a passionate fullstack developer from Barcelona willing to learn more about coding and programming languages. </h3>
 
-### 🌍 My languages: 
+###🌍 My languages: 
 English, Spanish and Catalan. <br>
 
 ### 💻 My real languages: <br>
