@@ -23,5 +23,13 @@ English, Spanish and Catalan. <br>
 <br>
 
 ###  📓 Currently learning: <br>
-ASP.NET CORE and Angular. 
+<ul>
+  <li> .NET </li>
+  <li> Angular </li>
+  <li> PHP </li>
+  <li> Flutter </li>
+  <li> C# </li>
+  <li> JavaScript </li>
+  <li> TypeScript  </li>
+</ul>
 <br><br><a href= "https://www.linkedin.com/in/gemmagarrigosafrances/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
