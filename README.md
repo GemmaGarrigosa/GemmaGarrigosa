@@ -31,6 +31,7 @@ English, Spanish and Catalan. <br>
   <li> C# </li>
   <li> JavaScript </li>
   <li> TypeScript  </li>
+  <li> Devextreme</li>
 </ul>
 
 
